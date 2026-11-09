@@ -4,3 +4,5 @@ coverage
 *.local
 .playwright-mcp
 .vite
+
+.env
